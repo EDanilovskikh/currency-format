@@ -1,6 +1,6 @@
 # Changelog
 
-## 1.0.4 - 2016-06-16
+## 1.0.4 - 2016-06-17
 
 - [feature] Register in Bower.
 
